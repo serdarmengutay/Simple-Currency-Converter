@@ -1,0 +1,13 @@
+
+.body {
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    left: 28%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
